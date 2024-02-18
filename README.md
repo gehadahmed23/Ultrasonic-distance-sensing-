@@ -9,17 +9,26 @@ system capable of accurately measuring distances . If the distance between the s
 🔘 Hardware:
 
 -Ultrasonic sensor
+
 -buzzer
+
 -LCD 2*16
+
 -Variable resistance << To control the lighting intensity
+
 -AVR 
+
 -Atmega32A .
+
 
 🔘 Software:
 
 -Main Application Layer
+
 -HAL Layer (LCD).
+
 -MCAL Layer (DIO, TIMER).
+
 
 proteus design
 
