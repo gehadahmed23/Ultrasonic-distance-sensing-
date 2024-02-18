@@ -27,7 +27,7 @@ system capable of accurately measuring distances . If the distance between the s
 
 -HAL Layer (LCD).
 
--MCAL Layer (DIO, TIMER).
+-MCAL Layer (DIO).
 
 
 proteus design
