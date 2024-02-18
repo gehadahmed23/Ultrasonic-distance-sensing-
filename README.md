@@ -8,9 +8,8 @@ system capable of accurately measuring distances . If the distance between the s
 
 🔘 Hardware:
 
--Ultrasonic sensor
-
--buzzer
+-Ultrasonic sensor.
+-buzzer.
 
 -LCD 2*16
 
